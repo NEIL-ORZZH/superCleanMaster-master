@@ -23,7 +23,7 @@
 ![](https://github.com/joyoyao/superCleanMaster/blob/master/screenshot/3.jpg)   
 -->
 <a href="https://github.com/xiaomingdaily">
-    <img src="https://github.com/joyoyao/superCleanMaster/blob/master/screenshot/2.jpg" width="50px">
+    <img src="https://github.com/joyoyao/superCleanMaster/blob/master/screenshot/2.jpg" width="500px">
 </a>
 
 
