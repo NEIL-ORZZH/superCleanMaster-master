@@ -14,9 +14,9 @@
 ##应用截图
 <br>
 ![](https://github.com/joyoyao/superCleanMaster/blob/master/screenshot/home.jpg)  
-![](https://github.com/joyoyao/superCleanMaster/blob/master/screenshot/1.jpg) 
-![](https://github.com/joyoyao/superCleanMaster/blob/master/screenshot/2.jpg) 
-![](https://github.com/joyoyao/superCleanMaster/blob/master/screenshot/3.jpg) 
+![](https://github.com/joyoyao/superCleanMaster/blob/master/screenshot/1.jpg)   
+![](https://github.com/joyoyao/superCleanMaster/blob/master/screenshot/2.jpg)   
+![](https://github.com/joyoyao/superCleanMaster/blob/master/screenshot/3.jpg)   
 
 ##Open source projects
 * [ButterKnife](http://jakewharton.github.io/butterknife/)  
